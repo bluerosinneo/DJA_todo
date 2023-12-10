@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ccee@6g(jyod!xh6cl=4f#_+80^hui%(oo#q0c7hhpa4+*%rqy
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "djatodo-production.up.railway.app"]
 
 
 # Application definition
